@@ -1,4 +1,6 @@
 # Codewars
+<img width="auto" alt="codewars-badge" src="https://www.codewars.com/users/camilacnery/badges/large">
+
 My solutions to some Codewars katas organized by difficulty. You can check my profile **[`here`](https://codewars.com/users/camilacnery)**.
 
 The ranking system works as follows:
