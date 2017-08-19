@@ -11,5 +11,3 @@ function validParentheses(parens){
 	}
 	return open === 0;
 }
-
-console.log(validParentheses('()'));
