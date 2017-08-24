@@ -1,0 +1,22 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Solutions to some codewars katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilacnery/codewars.git"
+  },
+  "author": "Camila Nery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilacnery/codewars/issues"
+  },
+  "homepage": "https://github.com/camilacnery/codewars#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
